@@ -1,5 +1,5 @@
 # DavidNathaniel.github.io
 
-~~ testing for markdown ~~
+~testing for markdown~
 
 **is this bold?**
