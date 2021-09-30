@@ -2,11 +2,12 @@
 
 -------------------------------
 
-**Rundown**
+[**Rundown**]
 
 This github repository displays functioning Jekyll implementation within github.pages
 
-**Jekyll**
+[**Jekyll**]
+
 General layout of website is based in folders. each is linked to when necessary within the confines of the jekyll framework.
 anything linked within confines of "---" is read by jekyll as variables to be used.
 
