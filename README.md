@@ -19,4 +19,4 @@ General look of website is controlled via css.
 -------------------------------
 
 To view the website, access the page via:
-DavidNathaniel.github.io
+[DavidNathaniel.github.io](https://davidnathaniel.github.io/)
